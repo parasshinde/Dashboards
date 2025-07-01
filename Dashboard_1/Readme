@@ -1,0 +1,14 @@
+This interactive dashboard visualizes responses from a developer-focused survey to uncover key professional and demographic trends. Built entirely in Excel, it offers quick insights using slicers and dynamic charts.
+
+📊 Key Features:
+Filterable insights by age, country, work experience, remote work type, and industry.
+
+Visual breakdown of total responses by country, helping identify global participation patterns.
+
+Detailed demographics on age distribution, work type (remote/hybrid/in-person), and average work experience.
+
+AI Threat perception analysis, providing a glimpse into how developers view AI's impact on their roles.
+
+Pivot-based charts for scalable and responsive interaction without the need for external tools.
+
+This dashboard is ideal for presenting survey results to stakeholders or embedding into a data storytelling portfolio.
